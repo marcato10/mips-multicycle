@@ -1,0 +1,7 @@
+v 4
+file . "regis_tb.vhd" "4344648dfffff6230e75618614ae6c398bdf2300" "20231109191149.232":
+  entity regis_tb at 1( 0) + 0 on 17;
+  architecture rtl of regis_tb at 8( 115) + 0 on 18;
+file . "reg.vhd" "a9b5cb1c2e7da40096f72dc56d7518c9a8ef7487" "20231109191143.203":
+  entity reg at 1( 0) + 0 on 15;
+  architecture rtl of reg at 15( 307) + 0 on 16;
